@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heading {
+    text-shadow: 2px 3px 4px hsl(0, 10%, 35%);
+}
